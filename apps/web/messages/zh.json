@@ -1,0 +1,15 @@
+{
+  "nav": { "home": "首页", "nostalji": "怀旧", "distilasyon": "蒸馏", "admin": "管理后台", "login": "登录", "logout": "退出", "register": "注册", "pricing": "价格", "account": "账户" },
+  "hero": { "title": "SnP Knowledge Base", "subtitle": "存档、搜索并连接你与 AI 的对话记录。", "cta_upload": "上传对话", "cta_download": "下载 (ZIP)", "cta_distilasyon": "蒸馏" },
+  "stats": { "conversations": "对话", "models": "AI 模型", "projects": "项目" },
+  "upload": { "title": "上传新对话", "model": "AI 模型", "dropzone": "拖拽 Markdown、TXT、JSON 或 ZIP 到此处", "hint": "拖拽或点击", "close": "关闭", "open": "点击上传新对话" },
+  "search": { "placeholder": "搜索对话...", "button": "搜索", "nostalji": "怀旧" },
+  "list": { "empty": "暂无对话。", "loading": "加载中...", "first_upload": "上传你的第一个对话 →" },
+  "pagination": { "prev": "← 上一页", "next": "下一页 →" },
+  "pricing": { "title": "价格", "subtitle": "选择适合你的方案。", "free": { "name": "免费版", "price": "$0", "description": "个人使用的基础功能。", "cta": "免费开始" }, "pro": { "name": "专业版", "price": "$9", "period": "/月", "description": "专业使用的全部功能。", "cta": "升级到专业版" }, "enterprise": { "name": "企业版", "price": "$29", "period": "/月", "description": "团队与企业的完全控制。", "cta": "升级到企业版" }, "features": { "upload_5": "5 次上传", "unlimited": "无限上传", "search": "高级搜索", "zip": "ZIP 下载", "distilasyon": "蒸馏", "nostalji": "怀旧模式", "admin": "管理后台", "support": "优先支持" } },
+  "login": { "title": "登录", "subtitle": "登录你的 SnP Knowledge Base 账户。", "email": "电子邮箱", "password": "密码", "submit": "登录", "no_account": "没有账户？", "register_link": "注册" },
+  "register": { "title": "注册", "subtitle": "成为 SnP Knowledge Base 成员。", "name": "姓名", "email": "电子邮箱", "password": "密码（至少 6 个字符）", "submit": "注册", "has_account": "已有账户？", "login_link": "登录" },
+  "account": { "title": "我的账户", "email": "电子邮箱", "name": "姓名", "plan": "当前方案", "status": "状态", "period_end": "周期结束", "manage": "管理订阅", "logout": "退出登录" },
+  "admin": { "title": "管理后台", "conversations": "对话", "users": "用户", "search": "搜索...", "edit": "编辑", "delete": "删除", "save": "保存", "cancel": "取消", "delete_confirm": "确定要删除吗？", "bulk_delete": "批量删除", "model": "模型", "project": "项目", "tags": "标签", "date": "日期" },
+  "errors": { "free_upload_limit": "免费版最多允许 5 个对话。请在 /pricing 升级到专业版。", "pro_required_zip": "ZIP 下载需要专业版。", "pro_required_distilasyon": "蒸馏功能需要专业版。", "auth_required": "请先登录以继续。" }
+}

@@ -1,0 +1,15 @@
+{
+  "nav": { "home": "Главная", "nostalji": "Ностальгия", "distilasyon": "Дистилляция", "admin": "Админ-панель", "login": "Вход", "logout": "Выход", "register": "Регистрация", "pricing": "Цены", "account": "Аккаунт" },
+  "hero": { "title": "SnP Knowledge Base", "subtitle": "Архивируй, ищи и связывай свои диалоги с ИИ.", "cta_upload": "Загрузить чат", "cta_download": "Скачать (ZIP)", "cta_distilasyon": "Дистилляция" },
+  "stats": { "conversations": "Диалоги", "models": "Модели ИИ", "projects": "Проекты" },
+  "upload": { "title": "Загрузить новый чат", "model": "Модель ИИ", "dropzone": "Перетащи сюда Markdown, TXT, JSON или ZIP", "hint": "Перетащи или кликни", "close": "Закрыть", "open": "Нажми, чтобы загрузить новый чат" },
+  "search": { "placeholder": "Поиск по диалогам...", "button": "Найти", "nostalji": "Ностальгия" },
+  "list": { "empty": "Пока нет диалогов.", "loading": "Загрузка...", "first_upload": "Загрузи свой первый чат →" },
+  "pagination": { "prev": "← Назад", "next": "Вперёд →" },
+  "pricing": { "title": "Цены", "subtitle": "Выбери план, который подходит тебе.", "free": { "name": "Бесплатно", "price": "$0", "description": "Базовые функции для личного использования.", "cta": "Начать бесплатно" }, "pro": { "name": "Pro", "price": "$9", "period": "/мес", "description": "Все функции для профессионального использования.", "cta": "Перейти на Pro" }, "enterprise": { "name": "Enterprise", "price": "$29", "period": "/мес", "description": "Полный контроль для команд и компаний.", "cta": "Перейти на Enterprise" }, "features": { "upload_5": "5 загрузок", "unlimited": "Безлимитные загрузки", "search": "Продвинутый поиск", "zip": "Скачать ZIP", "distilasyon": "Дистилляция", "nostalji": "Режим ностальгии", "admin": "Админ-панель", "support": "Приоритетная поддержка" } },
+  "login": { "title": "Вход", "subtitle": "Войди в свой аккаунт SnP Knowledge Base.", "email": "Электронная почта", "password": "Пароль", "submit": "Войти", "no_account": "Нет аккаунта?", "register_link": "Регистрация" },
+  "register": { "title": "Регистрация", "subtitle": "Стань членом SnP Knowledge Base.", "name": "Имя", "email": "Электронная почта", "password": "Пароль (мин. 6 символов)", "submit": "Зарегистрироваться", "has_account": "Уже есть аккаунт?", "login_link": "Вход" },
+  "account": { "title": "Мой аккаунт", "email": "Электронная почта", "name": "Имя", "plan": "Активный план", "status": "Статус", "period_end": "Конец периода", "manage": "Управлять подпиской", "logout": "Выйти" },
+  "admin": { "title": "Админ-панель", "conversations": "Диалоги", "users": "Пользователи", "search": "Поиск...", "edit": "Редактировать", "delete": "Удалить", "save": "Сохранить", "cancel": "Отмена", "delete_confirm": "Уверен, что хочешь удалить?", "bulk_delete": "Удалить выбранные", "model": "Модель", "project": "Проект", "tags": "Теги", "date": "Дата" },
+  "errors": { "free_upload_limit": "Бесплатный план — максимум 5 диалогов. Обновись до Pro на странице /pricing.", "pro_required_zip": "ZIP-скачивание требует план Pro.", "pro_required_distilasyon": "Дистилляция требует план Pro.", "auth_required": "Пожалуйста, войдите для продолжения." }
+}

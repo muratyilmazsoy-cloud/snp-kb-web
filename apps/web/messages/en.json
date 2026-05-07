@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Home",
+    "nostalji": "Nostalgia",
+    "distilasyon": "Distillation",
+    "admin": "Admin",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "pricing": "Pricing",
+    "account": "Account"
+  },
+  "hero": {
+    "title": "SnP Knowledge Base",
+    "subtitle": "Archive, search, and connect your AI conversations.",
+    "cta_upload": "Upload Chat",
+    "cta_download": "Download (ZIP)",
+    "cta_distilasyon": "Distillation"
+  },
+  "stats": {
+    "conversations": "Conversations",
+    "models": "AI Models",
+    "projects": "Projects"
+  },
+  "upload": {
+    "title": "Upload New Chat",
+    "model": "AI Model",
+    "dropzone": "Drop Markdown, TXT, JSON or ZIP here",
+    "hint": "Drag and drop or click",
+    "close": "Close",
+    "open": "Click to upload a new chat"
+  },
+  "search": {
+    "placeholder": "Search conversations...",
+    "button": "Search",
+    "nostalji": "Nostalgia"
+  },
+  "list": {
+    "empty": "No conversations yet.",
+    "loading": "Loading...",
+    "first_upload": "Upload your first chat →"
+  },
+  "pagination": {
+    "prev": "← Previous",
+    "next": "Next →"
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Choose the plan that fits your knowledge archiving needs.",
+    "free": {
+      "name": "Free",
+      "price": "$0",
+      "description": "Basic features for personal use.",
+      "cta": "Start Free"
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$9",
+      "period": "/month",
+      "description": "All features for professional use.",
+      "cta": "Go Pro"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "$29",
+      "period": "/month",
+      "description": "Full control for teams and management.",
+      "cta": "Go Enterprise"
+    },
+    "features": {
+      "upload_5": "5 chat uploads",
+      "unlimited": "Unlimited uploads",
+      "search": "Advanced search",
+      "zip": "ZIP download",
+      "distilasyon": "Distillation",
+      "nostalji": "Nostalgia mode",
+      "admin": "Admin panel",
+      "support": "Priority support"
+    }
+  },
+  "login": {
+    "title": "Login",
+    "subtitle": "Sign in to your SnP Knowledge Base account.",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Login",
+    "no_account": "No account?",
+    "register_link": "Register"
+  },
+  "register": {
+    "title": "Register",
+    "subtitle": "Become a SnP Knowledge Base member.",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password (min 6 chars)",
+    "submit": "Register",
+    "has_account": "Already have an account?",
+    "login_link": "Login"
+  },
+  "account": {
+    "title": "My Account",
+    "email": "Email",
+    "name": "Name",
+    "plan": "Active Plan",
+    "status": "Status",
+    "period_end": "Period End",
+    "manage": "Manage Subscription",
+    "logout": "Logout"
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "conversations": "Conversations",
+    "users": "Users",
+    "search": "Search...",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete_confirm": "Are you sure you want to delete?",
+    "bulk_delete": "Delete selected",
+    "model": "Model",
+    "project": "Project",
+    "tags": "Tags",
+    "date": "Date"
+  },
+  "errors": {
+    "free_upload_limit": "Free plan allows up to 5 conversations. Upgrade to Pro at /pricing.",
+    "pro_required_zip": "ZIP download requires Pro plan.",
+    "pro_required_distilasyon": "Distillation requires Pro plan.",
+    "auth_required": "Please login to continue."
+  }
+}

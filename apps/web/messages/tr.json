@@ -1,0 +1,15 @@
+{
+  "nav": { "home": "Anasayfa", "nostalji": "Nostalji", "distilasyon": "Distilasyon", "admin": "Yonetim", "login": "Giris", "logout": "Cikis", "register": "Kayit Ol", "pricing": "Fiyatlandirma", "account": "Hesabim" },
+  "hero": { "title": "SnP Knowledge Base", "subtitle": "AI sohbetlerinizi arsivleyin, arayin ve baglayin.", "cta_upload": "Sohbet Yuke", "cta_download": "Indir (ZIP)", "cta_distilasyon": "Distilasyon" },
+  "stats": { "conversations": "Sohbet", "models": "AI Modeli", "projects": "Proje" },
+  "upload": { "title": "Yeni Sohbet Yuke", "model": "AI Modeli", "dropzone": "Markdown, TXT, JSON veya ZIP buraya birakin", "hint": "Surukleyin veya tiklayin", "close": "Kapat", "open": "Yeni sohbet yuklemek icin tiklayin" },
+  "search": { "placeholder": "Sohbetlerde ara...", "button": "Ara", "nostalji": "Nostalji" },
+  "list": { "empty": "Heniz sohbet yok.", "loading": "Yukleniyor...", "first_upload": "Ilk sohbeti yukleyin →" },
+  "pagination": { "prev": "← Onceki", "next": "Sonraki →" },
+  "pricing": { "title": "Fiyatlandirma", "subtitle": "Bilgi arsivleme ihtiyaciniza uygun plani secin.", "free": { "name": "Ucretsiz", "price": "$0", "description": "Kisisel kullanim icin temel ozellikler.", "cta": "Ucretsiz Basla" }, "pro": { "name": "Pro", "price": "$9", "period": "/ay", "description": "Profesyonel kullanim icin tum ozellikler.", "cta": "Pro'ya Gec" }, "enterprise": { "name": "Enterprise", "price": "$29", "period": "/ay", "description": "Ekipler ve yonetim icin tam kontrol.", "cta": "Enterprise'a Gec" }, "features": { "upload_5": "5 sohbet yukleme", "unlimited": "Sinirsiz yukleme", "search": "Gelismis arama", "zip": "ZIP indirme", "distilasyon": "Distilasyon", "nostalji": "Nostalji modu", "admin": "Yonetim paneli", "support": "Oncelikli destek" } },
+  "login": { "title": "Giris Yap", "subtitle": "SnP Knowledge Base hesabiniza giris yapin.", "email": "Email", "password": "Sifre", "submit": "Giris Yap", "no_account": "Hesabiniz yok mu?", "register_link": "Kayit Ol" },
+  "register": { "title": "Kayit Ol", "subtitle": "SnP Knowledge Base uyesi olun.", "name": "Isim", "email": "Email", "password": "Sifre (en az 6 karakter)", "submit": "Kayit Ol", "has_account": "Zaten hesabiniz var mi?", "login_link": "Giris Yap" },
+  "account": { "title": "Hesabim", "email": "Email", "name": "Isim", "plan": "Aktif Plan", "status": "Durum", "period_end": "Donem Sonu", "manage": "Aboneligi Yonet", "logout": "Cikis Yap" },
+  "admin": { "title": "Yonetim Paneli", "conversations": "Sohbetler", "users": "Kullanicilar", "search": "Ara...", "edit": "Duzenle", "delete": "Sil", "save": "Kaydet", "cancel": "Iptal", "delete_confirm": "Silmek istediginize emin misiniz?", "bulk_delete": "Secileni sil", "model": "Model", "project": "Proje", "tags": "Etiketler", "date": "Tarih" },
+  "errors": { "free_upload_limit": "Ucretsiz planda en fazla 5 sohbet yukleyebilirsiniz. Pro'ya gecmek icin /pricing sayfasini ziyaret edin.", "pro_required_zip": "ZIP indirme Pro plan ile kullanilabilir.", "pro_required_distilasyon": "Distilasyon Pro plan ile kullanilabilir.", "auth_required": "Devam etmek icin lutfen giris yapin." }
+}

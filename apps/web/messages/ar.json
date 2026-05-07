@@ -1,0 +1,15 @@
+{
+  "nav": { "home": "الرئيسية", "nostalji": "الذكريات", "distilasyon": "التقطير", "admin": "الإدارة", "login": "تسجيل الدخول", "logout": "تسجيل الخروج", "register": "التسجيل", "pricing": "الأسعار", "account": "الحساب" },
+  "hero": { "title": "SnP Knowledge Base", "subtitle": "أرشفة وبحث وربط محادثاتك بالذكاء الاصطناعي.", "cta_upload": "رفع محادثة", "cta_download": "تحميل (ZIP)", "cta_distilasyon": "التقطير" },
+  "stats": { "conversations": "المحادثات", "models": "نماذج الذكاء الاصطناعي", "projects": "المشاريع" },
+  "upload": { "title": "رفع محادثة جديدة", "model": "نموذج الذكاء الاصطناعي", "dropzone": "اسحب Markdown أو TXT أو JSON أو ZIP هنا", "hint": "اسحب وأفلت أو انقر", "close": "إغلاق", "open": "انقر لرفع محادثة جديدة" },
+  "search": { "placeholder": "البحث في المحادثات...", "button": "بحث", "nostalji": "الذكريات" },
+  "list": { "empty": "لا توجد محادثات بعد.", "loading": "جاري التحميل...", "first_upload": "ارفع محادثتك الأولى →" },
+  "pagination": { "prev": "← السابق", "next": "التالي →" },
+  "pricing": { "title": "الأسعار", "subtitle": "اختر الخطة التي تناسب احتياجاتك.", "free": { "name": "مجاني", "price": "$0", "description": "الميزات الأساسية للاستخدام الشخصي.", "cta": "ابدأ مجاناً" }, "pro": { "name": "Pro", "price": "$9", "period": "/شهر", "description": "جميع الميزات للاستخدام المهني.", "cta": "التبديل إلى Pro" }, "enterprise": { "name": "Enterprise", "price": "$29", "period": "/شهر", "description": "تحكم كامل للفرق والشركات.", "cta": "التبديل إلى Enterprise" }, "features": { "upload_5": "5 عمليات رفع", "unlimited": "رفع غير محدود", "search": "بحث متقدم", "zip": "تحميل ZIP", "distilasyon": "التقطير", "nostalji": "وضع الذكريات", "admin": "لوحة الإدارة", "support": "دعم ذو أولوية" } },
+  "login": { "title": "تسجيل الدخول", "subtitle": "سجل الدخول إلى حساب SnP Knowledge Base الخاص بك.", "email": "البريد الإلكتروني", "password": "كلمة المرور", "submit": "تسجيل الدخول", "no_account": "ليس لديك حساب؟", "register_link": "التسجيل" },
+  "register": { "title": "التسجيل", "subtitle": "كن عضواً في SnP Knowledge Base.", "name": "الاسم", "email": "البريد الإلكتروني", "password": "كلمة المرور (6 أحرف على الأقل)", "submit": "التسجيل", "has_account": "لديك حساب بالفعل؟", "login_link": "تسجيل الدخول" },
+  "account": { "title": "حسابي", "email": "البريد الإلكتروني", "name": "الاسم", "plan": "الخطة النشطة", "status": "الحالة", "period_end": "نهاية الفترة", "manage": "إدارة الاشتراك", "logout": "تسجيل الخروج" },
+  "admin": { "title": "لوحة الإدارة", "conversations": "المحادثات", "users": "المستخدمون", "search": "بحث...", "edit": "تعديل", "delete": "حذف", "save": "حفظ", "cancel": "إلغاء", "delete_confirm": "هل أنت متأكد من الحذف؟", "bulk_delete": "حذف المحدد", "model": "النموذج", "project": "المشروع", "tags": "الوسوم", "date": "التاريخ" },
+  "errors": { "free_upload_limit": "الخطة المجانية تسمح بـ 5 محادثات كحد أقصى. قم بالترقية إلى Pro من صفحة /pricing.", "pro_required_zip": "تحميل ZIP يتطلب خطة Pro.", "pro_required_distilasyon": "التقطير يتطلب خطة Pro.", "auth_required": "الرجاء تسجيل الدخول للمتابعة." }
+}

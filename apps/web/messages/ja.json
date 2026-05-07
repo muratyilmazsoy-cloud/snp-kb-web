@@ -1,0 +1,15 @@
+{
+  "nav": { "home": "ホーム", "nostalji": "ノスタルジー", "distilasyon": "蒸留", "admin": "管理画面", "login": "ログイン", "logout": "ログアウト", "register": "新規登録", "pricing": "料金", "account": "アカウント" },
+  "hero": { "title": "SnP Knowledge Base", "subtitle": "AIとの会話をアーカイブ、検索、接続しよう。", "cta_upload": "チャットをアップロード", "cta_download": "ダウンロード (ZIP)", "cta_distilasyon": "蒸留" },
+  "stats": { "conversations": "会話", "models": "AIモデル", "projects": "プロジェクト" },
+  "upload": { "title": "新しいチャットをアップロード", "model": "AIモデル", "dropzone": "Markdown、TXT、JSON、またはZIPをここにドラッグ", "hint": "ドラッグ＆ドロップ、またはクリック", "close": "閉じる", "open": "クリックして新しいチャットをアップロード" },
+  "search": { "placeholder": "会話を検索...", "button": "検索", "nostalji": "ノスタルジー" },
+  "list": { "empty": "まだ会話はありません。", "loading": "読み込み中...", "first_upload": "最初の会話をアップロード →" },
+  "pagination": { "prev": "← 前へ", "next": "次へ →" },
+  "pricing": { "title": "料金", "subtitle": "あなたにぴったりのプランを選択。", "free": { "name": "無料", "price": "$0", "description": "個人利用のための基本機能。", "cta": "無料で始める" }, "pro": { "name": "Pro", "price": "$9", "period": "/月", "description": "プロ向けの全機能。", "cta": "Proに切り替え" }, "enterprise": { "name": "Enterprise", "price": "$29", "period": "/月", "description": "チームと企業向けの完全な管理。", "cta": "Enterpriseに切り替え" }, "features": { "upload_5": "5回までアップロード", "unlimited": "無制限アップロード", "search": "高度な検索", "zip": "ZIPダウンロード", "distilasyon": "蒸留", "nostalji": "ノスタルジーモード", "admin": "管理画面", "support": "優先サポート" } },
+  "login": { "title": "ログイン", "subtitle": "SnP Knowledge Baseアカウントにログイン。", "email": "メールアドレス", "password": "パスワード", "submit": "ログイン", "no_account": "アカウントをお持ちでないですか？", "register_link": "新規登録" },
+  "register": { "title": "新規登録", "subtitle": "SnP Knowledge Baseのメンバーになろう。", "name": "名前", "email": "メールアドレス", "password": "パスワード（6文字以上）", "submit": "登録", "has_account": "すでにアカウントをお持ちですか？", "login_link": "ログイン" },
+  "account": { "title": "マイアカウント", "email": "メールアドレス", "name": "名前", "plan": "現在のプラン", "status": "ステータス", "period_end": "期間終了日", "manage": "サブスクリプションを管理", "logout": "ログアウト" },
+  "admin": { "title": "管理画面", "conversations": "会話", "users": "ユーザー", "search": "検索...", "edit": "編集", "delete": "削除", "save": "保存", "cancel": "キャンセル", "delete_confirm": "本当に削除しますか？", "bulk_delete": "選択を削除", "model": "モデル", "project": "プロジェクト", "tags": "タグ", "date": "日付" },
+  "errors": { "free_upload_limit": "無料プランでは最大5つの会話までです。/pricing でProにアップグレード。", "pro_required_zip": "ZIPダウンロードにはProプランが必要です。", "pro_required_distilasyon": "蒸留にはProプランが必要です。", "auth_required": "続けるにはログインしてください。" }
+}
